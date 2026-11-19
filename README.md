@@ -1,6 +1,7 @@
-# Verity
-
-Verity is a toy number "language" that I hope to develop and improve more in the future when I get more skills into either a [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) or a fully fleshed out programming language.
+<h1 align="left">
+  <img src="assets/logo.png" alt="verity logo" height="36" style="vertical-align: middle; border-radius: 8px;">
+  Verity
+</h1>
 
 <div align="center">
     <img src="assets/logo.png" width=200 height=200 />
@@ -12,6 +13,10 @@ Verity is a toy number "language" that I hope to develop and improve more in the
   <img src="https://img.shields.io/badge/unit%20testing-xUnit-000000" alt="Tests: xUnit">
   <img src="https://img.shields.io/github/license/siywen/verity" alt="License: MIT">
 </p>
+
+---
+
+Verity is a toy number "language" that I hope to develop and improve more in the future when I get more skills into either a [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) or a fully fleshed out programming language.
 
 > - 🤖 No AI was used in the creation of this, all my own hard work.
 > - This is my first project using C# and I made it to learn how C# works
